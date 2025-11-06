@@ -1,2 +1,2 @@
 # Chadwick_etal_ProceedingsB_10.1098-rspb.2025.1721
-R code and supplementary datasets for Chadwick et al. Proceedings B 10.1098/rspb.2025.1721 "Chemical properties of foliar metabolomes represent a key axis of functional trait variation in forests of the tropical Andes"
+R code and supplementary datasets for Chadwick, Sierra E., David Henderson, Dale L. Forrister, Leslie Cayola, Alfredo F. Fuentes, Belén Alvestegui, Nathan Muchhala, J. Sebastián Tello, Martin Volf, Jonathan A. Myers, and Brian E. Sedio. "Chemical properties of foliar metabolomes represent a key axis of functional trait variation in forests of the tropical Andes" Proceedings B. https://doi.org/10.1098/rspb.2025.1721
